@@ -9,6 +9,11 @@ categories:
 
 這是鍾老爸每日一句的 Markdown 樣板檔。
 
+<!--
+錯字:
+AAA > BBB
+-->
+
 ---
 
 This is a Markdown template for Daddy Chung's Sentence of the Day.
