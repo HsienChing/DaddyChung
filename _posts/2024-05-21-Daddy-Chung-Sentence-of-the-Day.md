@@ -8,8 +8,12 @@ categories:
 # tags:
 ---
 
+2024-05-21 星期二
+
 > 早安愉快：簡單的時光裡，月白清風淡定，淡如菊的從容，以歡喜心度日，心若安靜素簡！
 
 ---
+
+2024-05-21 Tuesday
 
 > Happy good morning: In simple times, the moon is white and the breeze is calm, as calm as chrysanthemums. Live the day with joy, and your heart is quiet and simple!
