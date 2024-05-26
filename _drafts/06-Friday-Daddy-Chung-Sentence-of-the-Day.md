@@ -1,6 +1,6 @@
 ---
 title: "Daddy Chung's Sentence of the Day - Template Markdown 2 <br> "
-date: 2024-05-24 06:00:00 +0800
+date: 2024-OO-OO 06:00:00 +0800
 excerpt: ""
 categories:
   - 鍾老爸每日一句
@@ -8,12 +8,12 @@ categories:
 # tags:
 ---
 
-2024-05-25 星期六
+2024-OO-OO 星期五
 
 > 
 
 ---
 
-2024-05-25 Saturday
+2024-OO-OO Friday
 
 > 
