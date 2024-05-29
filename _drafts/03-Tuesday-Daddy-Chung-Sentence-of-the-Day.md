@@ -1,5 +1,5 @@
 ---
-title: "Daddy Chung's Sentence of the Day - Template Markdown 2 <br> "
+title: " <br> "
 date: 2024-OO-OO 06:00:00 +0800
 excerpt: ""
 categories:
