@@ -8,12 +8,12 @@ categories:
 # tags:
 ---
 
-2024-06-18 星期一
+2024-06-18 星期二
 
 > 早安愉快：想得開的人處處是大道，能看透的人處處是春天，世事變化多處處有生機！
 
 ---
 
-2024-06-18 Monday
+2024-06-18 Tuesday
 
 > Good morning: Those who think broadly will find the avenue, those who can see clearly will see spring everywhere, and the world is changing a lot and there will be vitality everywhere!
