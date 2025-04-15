@@ -12,6 +12,8 @@ main:
   #   url: /sitemap/
   - title: "關於/About"
     url: /about/
+  - title: "書籍/Books"
+    url: /book/
   #- title: "🍵贊助/☕️Support "
   #  url: /support/
   - title: "🗓列表/Lists"
