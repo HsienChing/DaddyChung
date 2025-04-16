@@ -117,7 +117,8 @@ analytics:
 author:
   name             : "鍾老爸<br>Daddy Chung"
   avatar           : #"https://avatars.githubusercontent.com/u/64768830" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "鍾老爸每天給生活的一點小鼓勵，用簡短的句子呈現。<br>祝福這些小鼓勵可以給各位的生活增加些活力! <br><br> A little bit of encouragement that Daddy Chung gave to life every day is presented in short sentences.<br>Bless these small encouragements can add some vitality to your life! <br><br> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Book-Cover/DaddyBook01-Cover-screenshot.jpg" alt="" style="width:50%">"
+  bio              : "鍾老爸每天給生活的一點小鼓勵，用簡短的句子呈現。<br>祝福這些小鼓勵可以給各位的生活增加些活力! <br><br> A little bit of encouragement that Daddy Chung gave to life every day is presented in short sentences.<br>Bless these small encouragements can add some vitality to your life!"
+  image: <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Book-Cover/DaddyBook01-Cover-screenshot.jpg" alt="" style="width:50%">
   location         : "台中市, 台灣 <br> Taichung City, Taiwan"
   email            :
   links:
