@@ -121,8 +121,8 @@ author:
   location         : "台中市, 台灣 <br> Taichung City, Taiwan"
   email            :
   links:
-    - label: "Amazon"
-      icon: "fa fa-amazon"
+    - label: "Amazon - 鍾老爸每日一句, 第一集。<br>Daddy Chung's Sentence of the Day, Book 1"
+      icon: <i class="fa-brands fa-amazon"></i>
       url: "https://www.amazon.com/dp/6260136889"
     #- label: "Email"
     #  icon: "fas fa-fw fa-envelope-square"
