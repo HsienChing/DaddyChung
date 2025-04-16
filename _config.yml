@@ -122,7 +122,7 @@ author:
   email            :
   links:
     - label: "Amazon - 鍾老爸每日一句, 第一集。<br>Daddy Chung's Sentence of the Day, Book 1"
-      icon: "fa-brands fa-amazon"
+      icon: "fab fa-fw fa-amazon"
       url:  "https://www.amazon.com/dp/6260136889"
     #- label: "Email"
     #  icon: "fas fa-fw fa-envelope-square"
