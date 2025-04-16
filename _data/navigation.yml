@@ -14,11 +14,11 @@ main:
     url: /about/
   - title: "書籍/Books"
     url: /book/
-  #- title: "🍵贊助/☕️Support "
-  #  url: /support/
+  - title: "🍵贊助/☕️Support "
+    url: /support/
   - title: "🗓列表/Lists"
     url: /year-archive/
-  - title: "📂Categories"
-    url: /categories/
-  - title: "🏷Tags"
-    url: /tags/
+  #- title: "📂Categories"
+  #  url: /categories/
+  #- title: "🏷Tags"
+  #  url: /tags/
