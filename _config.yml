@@ -122,29 +122,29 @@ author:
   email            :
   links:
     - label: "Amazon - 鍾老爸每日一句, 第一集。<br>Daddy Chung's Sentence of the Day, Book 1"
-      icon: <i class="fa-brands fa-amazon"></i>
-      url: "https://www.amazon.com/dp/6260136889"
+      icon: "fa-brands fa-amazon"
+      url:  "https://www.amazon.com/dp/6260136889"
     #- label: "Email"
     #  icon: "fas fa-fw fa-envelope-square"
-    #  url: "mailto:hsienching.chung@gmail.com"
+    #  url:  "mailto:hsienching.chung@gmail.com"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/HsienChing_" 
+    #  url:  "https://twitter.com/HsienChing_" 
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
-    #  url: "https://www.facebook.com/hsienching.chung"
+    #  url:  "https://www.facebook.com/hsienching.chung"
     #- label: "GitHub"
     #  icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/HsienChing"
+    #  url:  "https://github.com/HsienChing"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     #- label: "ORCiD"
     #  icon: "fab fa-fw fa-orcid"
-    #  url: "https://orcid.org/0000-0001-9364-8858"
+    #  url:  "https://orcid.org/0000-0001-9364-8858"
 
 # Icon search: https://fontawesome.com/v4/icons/
 
