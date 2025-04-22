@@ -1,6 +1,6 @@
 ---
 title: " <br> "
-date: 2024-OO-OO 06:00:00 +0800
+date: 2025-OO-OO 06:00:00 +0800
 excerpt: ""
 categories:
   - 鍾老爸每日一句
@@ -8,12 +8,12 @@ categories:
 # tags:
 ---
 
-2024-OO-OO 星期一
+2025-OO-OO 星期一
 
 > 
 
 ---
 
-2024-OO-OO Monday
+2025-OO-OO Monday
 
 > 
